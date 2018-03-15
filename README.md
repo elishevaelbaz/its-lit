@@ -56,3 +56,5 @@ The mock-up can be viewed here:
 
 https://app.moqups.com/eririzz/TQx8PmeRVQ/view 
 
+*\**Note\: app is not yet mobile responsive*
+
