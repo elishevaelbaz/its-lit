@@ -3,12 +3,12 @@
 "It's Lit" is a user-profile centered app that enables users to loan or receive books from other users in their area. The user's preferences are matched with books that other people are willing to lend (which we have stored in a database). The user can also choose to go to the results page and browse all the books in the database. If the user has books that they are willing to lend, they can enter the books' information for others to be able to find and borrow.
 
 ## Use it!
-Find the Heroku-deployed app [here](http://sleepy-peak-84439.herokuapp.com/profile).
+Find the Heroku-deployed app [here](https://frozen-inlet-47333.herokuapp.com/).
 
 We recommend signing up by clicking the register button for the best experience of the site, but if you're in a hurry and don't have time for that feel free to use the following login to browse the site.
 
-#### Email: y@y.com
-#### Password: y
+#### Email: guest@its-lit.com
+#### Password: guest
 
 
 ## How it works
